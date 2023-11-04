@@ -1,11 +1,11 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-/* Declaration of the _putchar function */
-int _putchar(char c);
+#include <unistd.h>
 
-/* Other function prototypes */
-void jack_bauer(void);
+/* Function prototypes */
+int _putchar(char c);
+void times_table(void); /* Declaration for the times_table function */
 
 #endif /* MAIN_H */
 
