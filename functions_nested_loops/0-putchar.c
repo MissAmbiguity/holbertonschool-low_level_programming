@@ -1,5 +1,7 @@
 #include "main.h"
 
+/* The _putchar function */
+
 int main(void)
 {
     _putchar('_');
