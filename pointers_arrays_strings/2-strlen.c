@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
-* _strlen - finds the length of a string
-* @s: string to be counted
-* Return: length of the string
+* _strlen - function name finds the length of a string
+* @s: function parameter
+* Return: the length of the string
 */
 int _strlen(char *s)
 {
